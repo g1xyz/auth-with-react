@@ -4,7 +4,7 @@ function Layout() {
   return (
     <>
       <div>
-        <h3>Auth with React</h3>
+        <h3 className="text-2xl text-center my-4">Auth UI</h3>
         <Outlet />
       </div>
     </>
